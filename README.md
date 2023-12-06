@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshsharma181&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshsharma181" /> </p>
 
-- 🔭 I’m currently working on **Laravel, CodeIgniter and NestJs Project**
+- 🔭 I’m currently working as **MERN Developer**
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **PHP,Laravel**
+- 💬 Ask me about **React,Nodejs,PHP**
 
 - 📫 How to reach me **rakesh.sharma18121@gmail.com**
 
