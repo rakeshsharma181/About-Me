@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rakesh Kumar Sharma</h1>
-<h3 align="center">A passionate Backend developer</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshsharma181&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshsharma181" /> </p>
 
 - 🔭 I’m currently working as **MERN Developer**
-
-- 🌱 I’m currently learning **ReactJS**
-
-- 💬 Ask me about **React,Nodejs,PHP**
+  
+- 💬 Ask me about **JS,ReactJS,NodeJS,PHP**
 
 - 📫 How to reach me **rakesh.sharma18121@gmail.com**
 
