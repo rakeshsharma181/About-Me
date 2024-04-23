@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **MERN Developer**
   
-- 💬 Ask me about **JS,ReactJS,NodeJS,PHP**
+- 💬 Ask me about **JavaScript,ReactJS,NodeJS,MongoDB,MySQL,PHP**
 
 - 📫 How to reach me **rakesh.sharma18121@gmail.com**
 
